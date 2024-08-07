@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosako021" alt="mosako021" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security Stuff**
+- 🌱 I’m currently learning about **Cyber Security**
 
 - 💬 Ask me about **Python, MERN, DSA**
 
