@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ultralegend021@gmail.com**
 
-<img align="center" height="150" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif"  />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <br clear="both">
