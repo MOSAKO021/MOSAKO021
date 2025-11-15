@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosako021&label=Profile%20views&color=0e75b6&style=flat" alt="mosako021" /> </p>
 
 
-- 🌱 I’m currently learning about **Cyber Security**
+- 🌱 I’m currently learning about **DevOps**
 
 - 💬 Ask me about **Python, MERN, DSA**
 
